@@ -3,7 +3,7 @@ FROM marcusmyers/laravel
 #HEALTHCHECK CMD curl -f http://localhost:8000/status || exit 1
 #STOPSIGNAL SIGKILL
 
-
+#Testing again bro
 EXPOSE 8081
 EXPOSE 8000
 

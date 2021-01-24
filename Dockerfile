@@ -3,7 +3,7 @@ FROM marcusmyers/laravel
 #HEALTHCHECK CMD curl -f http://localhost:8000/status || exit 1
 #STOPSIGNAL SIGKILL
 
-#ini komentar port
+#ini komentar port untuk di akses dari luar
 EXPOSE 8081
 EXPOSE 8000
 

@@ -4,7 +4,7 @@ FROM marcusmyers/laravel
 #STOPSIGNAL SIGKILL
 
 #ini komentar port untuk di akses dari luar
-#nambah sampah
+#nambah sampah lagi
 
 EXPOSE 8081
 EXPOSE 8000
